@@ -1,0 +1,12 @@
+list: $/berkaykose/vuerentacar/models/vehicle/columns.yaml
+modelClass: Berkaykose\Vuerentacar\Models\Vehicle
+title: Vehicles
+noRecordsMessage: 'backend::lang.list.no_records'
+showSetup: true
+showCheckboxes: true
+recordsPerPage: 20
+toolbar:
+    buttons: list_toolbar
+    search:
+        prompt: 'backend::lang.list.search_prompt'
+recordUrl: 'berkaykose/vuerentacar/vehicles/update/:id'

@@ -1,0 +1,10 @@
+name: Users
+form: $/berkaykose/vuerentacar/models/users/fields.yaml
+modelClass: Berkaykose\Vuerentacar\Models\Users
+defaultRedirect: berkaykose/vuerentacar/users
+create:
+    redirect: 'berkaykose/vuerentacar/users/update/:id'
+    redirectClose: berkaykose/vuerentacar/users
+update:
+    redirect: berkaykose/vuerentacar/users
+    redirectClose: berkaykose/vuerentacar/users

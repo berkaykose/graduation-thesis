@@ -1,0 +1,10 @@
+name: Vehicles
+form: $/berkaykose/vuerentacar/models/vehicle/fields.yaml
+modelClass: Berkaykose\Vuerentacar\Models\Vehicle
+defaultRedirect: berkaykose/vuerentacar/vehicles
+create:
+    redirect: 'berkaykose/vuerentacar/vehicles/update/:id'
+    redirectClose: berkaykose/vuerentacar/vehicles
+update:
+    redirect: berkaykose/vuerentacar/vehicles
+    redirectClose: berkaykose/vuerentacar/vehicles

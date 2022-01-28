@@ -1,0 +1,10 @@
+name: Locations
+form: $/berkaykose/vuerentacar/models/location/fields.yaml
+modelClass: Berkaykose\Vuerentacar\Models\Location
+defaultRedirect: berkaykose/vuerentacar/locations
+create:
+    redirect: 'berkaykose/vuerentacar/locations/update/:id'
+    redirectClose: berkaykose/vuerentacar/locations
+update:
+    redirect: berkaykose/vuerentacar/locations
+    redirectClose: berkaykose/vuerentacar/locations

@@ -1,0 +1,10 @@
+name: Dates
+form: $/berkaykose/vuerentacar/models/date/fields.yaml
+modelClass: Berkaykose\Vuerentacar\Models\Date
+defaultRedirect: berkaykose/vuerentacar/dates
+create:
+    redirect: 'berkaykose/vuerentacar/dates/update/:id'
+    redirectClose: berkaykose/vuerentacar/dates
+update:
+    redirect: berkaykose/vuerentacar/dates
+    redirectClose: berkaykose/vuerentacar/dates

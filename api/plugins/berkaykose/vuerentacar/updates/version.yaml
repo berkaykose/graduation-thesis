@@ -1,0 +1,35 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table berkaykose_vuerentacar_vehicles'
+    - builder_table_create_berkaykose_vuerentacar_vehicles.php
+1.0.3:
+    - 'Created table berkaykose_vuerentacar_locations'
+    - builder_table_create_berkaykose_vuerentacar_locations.php
+1.0.4:
+    - 'Created table berkaykose_vuerentacar_vhc_lct'
+    - builder_table_create_berkaykose_vuerentacar_vhc_lct.php
+1.0.5:
+    - 'Updated table berkaykose_vuerentacar_vehicles'
+    - builder_table_update_berkaykose_vuerentacar_vehicles.php
+1.0.6:
+    - 'Updated table berkaykose_vuerentacar_vehicles'
+    - builder_table_update_berkaykose_vuerentacar_vehicles_2.php
+1.0.7:
+    - 'Created table berkaykose_vuerentacar_dates'
+    - builder_table_create_berkaykose_vuerentacar_dates.php
+1.0.8:
+    - 'Created table berkaykose_vuerentacar_vehicles_dates'
+    - builder_table_create_berkaykose_vuerentacar_vehicles_dates.php
+1.0.9:
+    - 'Created table berkaykose_vuerentacar_user_records'
+    - builder_table_create_berkaykose_vuerentacar_user_records.php
+1.0.10:
+    - 'Updated table berkaykose_vuerentacar_user_records'
+    - builder_table_update_berkaykose_vuerentacar_user_groups.php
+1.0.11:
+    - 'Updated table berkaykose_vuerentacar_user_groups'
+    - builder_table_update_berkaykose_vuerentacar_user_groups_2.php
+1.0.12:
+    - 'Drop table berkaykose_vuerentacar_user_groups'
+    - builder_table_delete_berkaykose_vuerentacar_user_groups.php
